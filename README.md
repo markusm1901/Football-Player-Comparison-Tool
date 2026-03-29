@@ -16,8 +16,11 @@ A desktop application for comparing football (soccer) players across Europe's to
  
 ## Demo
  
-<video src="https://raw.githubusercontent.com/markusm1901/Football-Player-Comparison-Tool/main/images/demo.mp4" controls width="100%"></video>
  
+
+https://github.com/user-attachments/assets/3aad192f-956d-4ffc-90a6-09520ee79593
+
+
 ---
 
 ## Project Structure
