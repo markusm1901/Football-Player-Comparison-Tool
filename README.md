@@ -1,4 +1,4 @@
- Football Player Comparison Tool
+# Football Player Comparison Tool
  
 A desktop application for comparing football (soccer) players across Europe's top five leagues. Select any two positionally compatible players and generate a side-by-side radar chart of their key performance metrics, normalised per 90 minutes.
  
@@ -16,7 +16,7 @@ A desktop application for comparing football (soccer) players across Europe's to
  
 ## Demo
  
-<video src="images/2026-03-29 16-21-47.mp4" controls width="100%"></video>
+<video src="https://raw.githubusercontent.com/markusm1901/Football-Player-Comparison-Tool/main/images/demo.mp4" controls width="100%"></video>
  
 ---
 
